@@ -1,0 +1,86 @@
+[
+  {
+    "Id": "fdf0c8f8-ac95-473e-9019-4a607f7685e9",
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Email": "JDoe@email.com",
+    "Address": "123 Street Ave. Earth",
+    "PhoneNumber": "200-300-4000",
+    "Gpa": 3,
+    "Credits": 3,
+    "AdmissionDate": "10-11-26",
+    "EnrolledCourses": [
+      "STAT 210: Introductory Statistics \u2014 Covers data collection, quantitative evaluation methods, and standard probability theory models.",
+      "ECON 201: Microeconomics \u2014 Analyzes individual consumer behavior and business decision-making under resource constraints.",
+      "MKTG 301: Principles of Marketing \u2014 Introduces strategies for product positioning, consumer research, and digital campaign design."
+    ],
+    "IsActive": true
+  },
+  {
+    "Id": "f0b41d3d-27bf-4cda-a5ed-82cd8316194f",
+    "FirstName": "Jane",
+    "LastName": "Doe",
+    "Email": "JaneDoe@email.com",
+    "Address": "123 N County rd. Earth.",
+    "PhoneNumber": "300-400-5000",
+    "Gpa": 3,
+    "Credits": 6,
+    "AdmissionDate": "10-10-26",
+    "EnrolledCourses": [
+      "CS 101: Introduction to Computer Science \u2014 Explores foundational computing principles, algorithmic thinking, and basic coding syntax.",
+      "CS 305: Web Development \u2014 Teaches full-stack design patterns using modern web front-ends and server infrastructure.",
+      "MATH 151: Calculus I \u2014 Focuses on the mathematics of change through limits, derivatives, and basic integration."
+    ],
+    "IsActive": true
+  },
+  {
+    "Id": "ab0dc9fb-adc6-4a02-92df-091b22ead39c",
+    "FirstName": "Bill",
+    "LastName": "Parker",
+    "Email": "example@email.com",
+    "Address": "234 State street.",
+    "PhoneNumber": "222-333-4444",
+    "Gpa": 2,
+    "Credits": 4,
+    "AdmissionDate": "10-11-26",
+    "EnrolledCourses": [
+      "STAT 210: Introductory Statistics \u2014 Covers data collection, quantitative evaluation methods, and standard probability theory models.",
+      "ECON 201: Microeconomics \u2014 Analyzes individual consumer behavior and business decision-making under resource constraints."
+    ],
+    "IsActive": false
+  },
+  {
+    "Id": "e3b81c07-2829-4685-9f08-d82ad54a213f",
+    "FirstName": "Sue",
+    "LastName": "Patrick",
+    "Email": "Suepat@email.com",
+    "Address": "2355 W Broadway blvd",
+    "PhoneNumber": "456-321-7852",
+    "Gpa": 3,
+    "Credits": 8,
+    "AdmissionDate": "10-11-26",
+    "EnrolledCourses": [
+      "CS 101: Introduction to Computer Science \u2014 Explores foundational computing principles, algorithmic thinking, and basic coding syntax.",
+      "STAT 210: Introductory Statistics \u2014 Covers data collection, quantitative evaluation methods, and standard probability theory models.",
+      "ACCT 210: Financial Accounting \u2014 Teaches standard reporting structures to track, summarize, and communicate corporate financial data."
+    ],
+    "IsActive": false
+  },
+  {
+    "Id": "9a622861-4525-46e0-ab8e-5d32b7ce0a4a",
+    "FirstName": "Tamika",
+    "LastName": "Cole",
+    "Email": "TammyC@email.com",
+    "Address": "556 N Country rd. Earth",
+    "PhoneNumber": "789-123-4562",
+    "Gpa": 3,
+    "Credits": 3,
+    "AdmissionDate": "10-5-26",
+    "EnrolledCourses": [
+      "MATH 151: Calculus I \u2014 Focuses on the mathematics of change through limits, derivatives, and basic integration.",
+      "ECON 201: Microeconomics \u2014 Analyzes individual consumer behavior and business decision-making under resource constraints.",
+      "MKTG 301: Principles of Marketing \u2014 Introduces strategies for product positioning, consumer research, and digital campaign design."
+    ],
+    "IsActive": true
+  }
+]
